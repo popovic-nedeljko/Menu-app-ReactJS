@@ -7,3 +7,8 @@
 The dynamic menu created using React provides a seamless user experience for customers visiting a restaurant website. By allowing users to filter menu items by category, the application improves the navigation of the website and increases the likelihood of users finding items that meet their preferences.
 
 The usage of React hooks, particularly useState, significantly enhances the management of state within the codebase, promoting readability and maintainability. The implementation of functional components increases modularity and simplifies future modifications. The application is responsive, efficiently renders menu items and swiftly navigates between categories, resulting in a responsive user experience.
+
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
